@@ -51,9 +51,4 @@ python app.py
 
 [👉 최신 버전 다운로드 https://drive.google.com/file/d/1uDpn-nM-m-6yhwQQtmUyp2CSeJx9-yix/view?usp=drive_link] * 참고: AI 엔진 포함으로 인해 용량이 약 2.7GB입니다.
 
-🧑‍💻 개발자 정보 (Author)
-이름: 김원석 (Kim Won-seok)
-
-소속: 전남대학교 AI융합대학 (Chonnam National University, School of AI)
-
 Email: [kim7539548@gmail.com]
