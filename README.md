@@ -49,6 +49,6 @@ python app.py
 📦 배포 (Distribution)
 고성능 GPU 가속(NVIDIA CUDA)을 지원하는 단일 실행 파일(.exe) 버전은 아래 링크에서 다운로드할 수 있습니다.
 
-[👉 최신 버전 다운로드 https://drive.google.com/file/d/1uDpn-nM-m-6yhwQQtmUyp2CSeJx9-yix/view?usp=drive_link] * 참고: AI 엔진 포함으로 인해 용량이 약 2.7GB입니다.
+[👉 최신 버전 다운로드 https://drive.google.com/file/d/1n2WWV_7UvMRO-EtfzS-A1UyY9unB66Y-/view?usp=drive_link] * 참고: AI 엔진 포함으로 인해 용량이 약 2.7GB입니다.
 
 Email: [kim7539548@gmail.com]
